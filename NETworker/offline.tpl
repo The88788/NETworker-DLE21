@@ -1,0 +1,5 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NETworker — технические работы</title><link rel="icon" href="{THEME}/images/favicon.ico">
+<style>*{box-sizing:border-box}body{margin:0;min-height:100vh;display:grid;place-items:center;padding:24px;background:#f5f7f8;color:#26333c;font:16px/1.7 Arial,sans-serif}main{max-width:640px;padding:40px;background:#fff;border-top:4px solid #e15c41;box-shadow:0 3px 24px #26333c0d}strong{font-size:24px}h1{font-size:28px;line-height:1.3;margin:24px 0 16px}p{margin:16px 0 0}.reason{overflow-wrap:anywhere}@media(max-width:480px){main{padding:24px}h1{font-size:24px}}</style>
+</head><body><main><strong>NETworker</strong><h1>Сайт временно недоступен</h1><div class="reason">{reason}</div><p>Пожалуйста, зайдите немного позже.</p></main></body></html>
